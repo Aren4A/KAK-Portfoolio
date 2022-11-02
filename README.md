@@ -1,12 +1,12 @@
 # KAK-Portfoolio
 Meeskond:
 * Kristo Tänak
-Heino Soon
-Krista Kallas
-Oskar Kallas
-Marten Saar
-Tony Vorontsov
-Aren Ansper
+* Heino Soon
+* Krista Kallas
+* Oskar Kallas
+* Marten Saar
+* Tony Vorontsov
+* Aren Ansper
 
 Ülesanded:
 Figma - Krista, Marten
