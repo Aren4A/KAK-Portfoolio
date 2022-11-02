@@ -23,7 +23,7 @@
 * Baasleht - Tony
 
 ### Töövahendid:
-*GitHub
-*Slack
-*VS Code
-*Figma
+* GitHub
+* Slack
+* VS Code
+* Figma
