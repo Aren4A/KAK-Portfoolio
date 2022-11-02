@@ -1,6 +1,6 @@
 # KAK-Portfoolio
 Meeskond:
-Kristo Tänak
+* Kristo Tänak
 Heino Soon
 Krista Kallas
 Oskar Kallas
