@@ -1,5 +1,5 @@
 # KAK-Portfoolio
-Meeskond:
+### Meeskond:
 * Kristo Tänak
 * Heino Soon
 * Krista Kallas
@@ -8,13 +8,13 @@ Meeskond:
 * Tony Vorontsov
 * Aren Ansper
 
-Ülesanded:
-Figma - Krista, Marten
-Readme - Aren
-Github - Aren
-API - Kristo
-Tutvustus - Heino
-Faktid - Tony
-Galerii - Aren
-Kontakt - Oskar
-Baasleht - Tony
+### Ülesanded:
+* Figma - Krista, Marten
+* Readme - Aren
+* Github - Aren
+* API - Kristo
+* Tutvustus - Heino
+* Faktid - Tony
+* Galerii - Aren
+* Kontakt - Oskar
+* Baasleht - Tony
