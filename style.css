@@ -4,7 +4,7 @@
     box-sizing: border-box;
 }
 body {
-    background-color: beige;
+    background-color: #5885AF;
 }
 .container {
     padding: 1rem;
@@ -20,10 +20,10 @@ body {
 .item {
     gap: 5rem;
     padding: 1rem;
-    background-color: #fff;
-    color: black;
+    background-color: #274472;
+    color: white;
     border-radius: 5px;
-    border: 1px solid beige;
+    border: 1px solid #000;
     opacity: 0.9;
 }
 img {
