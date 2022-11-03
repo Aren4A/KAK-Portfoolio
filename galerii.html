@@ -4,11 +4,11 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
     <link rel="stylesheet" href="style.css">
+    <title>Document</title>
 </head>
 <body>
-    
+
     <header>
 
         <div class="header_pilt">
@@ -31,20 +31,41 @@
         </div>
 
     </header>
+
+  <section class="container">
+    <h1>Galerii</h1>
+    <section class="item-list">
+
+ <div class="hover item"><a href="yritused.html">
+    <img src="https://galerii.ametikool.ee/Fotogalerii/2022/Heategevuslik%20Paadiralli%2006.05/20220506_960.jpg">
+    <div class="item-text">
+        <h2>Üritused</h2>
+        <p></p>
+    </div>
+</a> 
+</div>
+
+ <div class="hover item"><a href="tordid.html">
+    <img src="https://galerii.ametikool.ee/Fotogalerii/2022/Kontiitrite%20tordiprojekt%203.06/image00010.jpeg">
+    <div class="item-text">
+        <h2>Tordid</h2>
+        <p></p>
+    </div>
+</a>
+ </div>
+
+ <div class="hover item"><a href="ajalugu.html">
+    <img src="https://galerii.ametikool.ee/Fotogalerii/Varia/Ajalugu/kooli_ajalugu%20_24_.jpg">
+    <div class="item-text">
+        <h2>Ajalugu</h2>
+        <p></p>
+    </div>
+</a>
+ </div>
+
+</section>
+  </section>
     
-    <div class="maps" id="googleMap" style="width:30%;height:400px;"></div>
-
-<script>
-function myMap() {
-var mapProp= {
-  center:new google.maps.LatLng(58.25635223741965, 22.482417655154215),
-  zoom: 17,
-};
-var map = new google.maps.Map(document.getElementById("googleMap"),mapProp);
-}
-</script>
-
-<script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyChR-kBqyALKF63eGFGi0Z8JtkjFOOEEI4&callback=myMap"></script>
-    <script src="main.js"></script>
 </body>
+
 </html>
