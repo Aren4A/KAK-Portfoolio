@@ -275,6 +275,7 @@ p {
     margin-top: 26px;
     width: 150px;
     height: 150px;
+    object-fit: cover;
 }
 
 /* GALERII */
