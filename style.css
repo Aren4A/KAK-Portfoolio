@@ -35,11 +35,11 @@ img {
     margin-bottom: 1.5rem;
     border-radius: 10px;
     aspect-ratio: 16 / 9;
-    object-fit:cover;
+    object-fit: cover;
 }
 
 .hover:hover {
-    box-shadow: 1px 2px 3px 0px rgb(234, 163, 9);
+    box-shadow: 1px 2px 3px 0px rgb(255, 255, 255);
     opacity: 1;
     transition: all 0.4s ease;
     transform: scale(1.2);
