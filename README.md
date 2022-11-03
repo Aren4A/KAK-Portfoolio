@@ -13,15 +13,15 @@
 2.Päev: Koodi kirjutamine, erinevate koodilõikude kokku panemine, 
 
 ### Ülesanded:
-* Figma - Krista, Marten
+* Figma - Krista, Marten, Kristo
 * Readme - Aren
 * Github - Aren
-* API - Kristo
+* API - Marten
 * Tutvustus - Heino
 * Faktid - Tony
 * Galerii - Aren
-* Kontakt - Oskar
-* Baasleht - Tony
+* Kontakt - Oskar, Kristo
+* Baasleht - Tony, Marten
 
 ### Töövahendid:
 * GitHub
