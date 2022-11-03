@@ -1,0 +1,48 @@
+* {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+body {
+    background-color: #5885AF;
+}
+
+p {
+    margin: 0;
+}
+.info {
+    margin-bottom: 20px;
+    font-size: 17px;
+    text-align: center;
+}
+.container {
+    display: flex;
+    flex-wrap:wrap;
+    justify-content:center;
+    padding-left: 20%;
+    padding-right: 20%;
+    gap: 20px;
+}
+.item1 {
+    background-color: #C3E0E5;
+    border-radius: 10px;
+    height: auto;
+    width: 200px;
+}
+.nimi {
+    padding-top: 5px;
+    padding-bottom: 5px;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    background-color: #41729F;
+    color: white;
+    display: flex;
+    justify-content: center;
+    font-size: 18px;
+}
+
+.img1 {
+    margin-left: 26px;
+    margin-top: 26px;
+    width: 150px;
+    height: 150px;
+}
