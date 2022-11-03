@@ -11,8 +11,8 @@
     
     <header>
 
-        <div class="header_nimi">
-            <h1>KAK</h1>
+        <div class="header_pilt">
+            <img src="https://ametikool.ee/sites/ametikool.ee/files/styles/hitsa_core_logo/public/kuressaare-ametikool-100-logo-02-02-04.png?itok=LckElaLm" alt="">
         </div>
 
         <a href="javascript:void(0)" onclick="burger_menu()">
@@ -32,7 +32,19 @@
 
     </header>
     
-    <script src="main.js"></script>
+    <div class="maps" id="googleMap" style="width:30%;height:400px;"></div>
 
+<script>
+function myMap() {
+var mapProp= {
+  center:new google.maps.LatLng(58.25635223741965, 22.482417655154215),
+  zoom: 17,
+};
+var map = new google.maps.Map(document.getElementById("googleMap"),mapProp);
+}
+</script>
+
+<script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyChR-kBqyALKF63eGFGi0Z8JtkjFOOEEI4&callback=myMap"></script>
+    <script src="main.js"></script>
 </body>
 </html>
