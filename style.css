@@ -12,10 +12,9 @@ body {
     margin: 0 auto;
 }
 .item-list {
-    display: flex;
+    display:flex;
     flex-wrap: wrap;
     gap: 1rem;
-    justify-content: center;
 }
 .item {
     gap: 5rem;
@@ -35,7 +34,7 @@ img {
     margin-bottom: 1.5rem;
     border-radius: 10px;
     aspect-ratio: 16 / 9;
-    object-fit:cover;
+    object-fit: cover;
 }
 
 .hover:hover {
