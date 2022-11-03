@@ -21,8 +21,8 @@ p {
     gap: 10px;
 }
 .item1 {
-    background-color: aqua;
-    border: solid black 2px;
+    background-color: #C3E0E5;
+    border: solid black 1px;
     border-radius: 5px;
     height: 200px;
     width: 200px;
