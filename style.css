@@ -11,8 +11,10 @@ p {
 .Leelo,
 .Erik,
 .Anželika,
-.Kadri {
+.Kadri,
+.Eliis {
     margin-bottom: 20px;
+    font-size: 22px;
 }
 .container {
     display: flex;
@@ -27,4 +29,9 @@ p {
     height: 200px;
     width: 200px;
     margin-left: 50px;
+}
+.nimi {
+    display: flex;
+    justify-content: center;
+    font-size: 20px;
 }
