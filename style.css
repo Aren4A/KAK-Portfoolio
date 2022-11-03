@@ -279,7 +279,6 @@ p {
     margin: 0 auto;
     text-align: center;
     font-size: 36px;
-    
 }
 .item-list {
     display: flex;
@@ -308,6 +307,13 @@ p {
     border-radius: 10px;
     aspect-ratio: 16 / 9;
     object-fit: cover;
+}
+.pikk img {
+    width: 100%;
+    margin-bottom:auto;
+    border-radius: 10px;
+    aspect-ratio:unset;
+    object-fit:scale-down;
 }
 
 .hover:hover {
