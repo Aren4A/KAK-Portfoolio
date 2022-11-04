@@ -52,4 +52,4 @@
 ### Aren Ansper
 1. Kasutan ka edaspidi GitHubi branchinist ja GitHub Desktopi, mida selles projektis õppisin.
 2. Arendasin suhtlemisoskust.
-3. 
+3. Õppisin linkimist.
