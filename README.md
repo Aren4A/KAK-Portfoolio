@@ -44,8 +44,10 @@
 ### Krista Kallas
 
 ### Oskar Kallas
-1.Õppisin kuidas kasutada break elementi. 
+1.Õppisin kuidas kasutada break elementi.  
+
 2.Õppisin mis sugune peaks figma välja nägema ja miks seda üldse vaja on. 
+
 3.Õppisin tiimitööd väga palju ja miks see tähtis on. 
 
 ### Marten Saar
