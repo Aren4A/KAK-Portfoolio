@@ -1,38 +1,41 @@
 # KAK-Portfoolio
 ### Meeskond:
-Kristo Tänak
-Heino Soon
-Krista Kallas
-Oskar Kallas
-Marten Saar
-Tony Vorontsov
-Aren Ansper
-Töökäik:
+* Kristo Tänak
+* Heino Soon
+* Krista Kallas
+* Oskar Kallas
+* Marten Saar
+* Tony Vorontsov
+* Aren Ansper
+
+### Töökäik:
 1.Päev: Tutvumine tiimiga, idee mõtestamine, ülesannete jagamine, koodi kirjutamine. 2.Päev: Koodi kirjutamine, erinevate koodilõikude kokku panemine,
 
-Ülesanded:
-Figma - Krista, Marten, Kristo
-Readme - Aren
-Github - Aren
-API - Marten
-Tutvustus - Heino
-Faktid - Tony
-Galerii - Aren
-Kontakt - Oskar, Kristo
-Baasleht - Tony, Marten
-Töövahendid:
-GitHub
-Slack
-VS Code
-Figma
-Analüüs
-Iga tiimi liikme nime ja vastuseid kolmele küsimusele (oluline on analüüsida enda tegevust selle projekti jooksul)
+### Ülesanded:
+* Figma - Krista, Marten, Kristo
+* Readme - Aren
+* Github - Aren
+* API - Marten
+* Tutvustus - Heino
+* Faktid - Tony
+* Galerii - Aren
+* Kontakt - Oskar, Kristo
+* Baasleht - Tony, Marten
 
-Kuidas rakendad selles projektis õpitut järgmistes arendusprojektides
+### Töövahendid:
+* GitHub
+* Slack
+* VS Code
+* Figma
 
-Üks pehme oskus, mida õppisin ja endas arendasin
+### Analüüs
+* Iga tiimi liikme nime ja vastuseid kolmele küsimusele (oluline on analüüsida enda tegevust selle projekti jooksul)
 
-Üks tehniline oskus, mida õppisin ja endas arendasin
+* Kuidas rakendad selles projektis õpitut järgmistes arendusprojektides
+
+* Üks pehme oskus, mida õppisin ja endas arendasin
+
+* Üks tehniline oskus, mida õppisin ja endas arendasin
 
 Kristo Tänak
 
