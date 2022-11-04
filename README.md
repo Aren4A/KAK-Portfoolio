@@ -54,6 +54,11 @@
 3.Õppisin tiimitööd väga palju ja miks see tähtis on. 
 
 ### Marten Saar
+1.Rakendan
+
+2.Arendasin tiimitöö oskust ja tiimiga suhtlemist.
+
+3.Arendasin enda oskusi API-dega.
 
 ### Tony Vorontsov
 1. Kasutan tiimitöödes GitHub branche ja suhtlen tiimiga rohkem.
