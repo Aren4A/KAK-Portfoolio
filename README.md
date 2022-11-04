@@ -31,22 +31,25 @@
 ### Analüüs
 * Iga tiimi liikme nime ja vastuseid kolmele küsimusele (oluline on analüüsida enda tegevust selle projekti jooksul)
 
-* Kuidas rakendad selles projektis õpitut järgmistes arendusprojektides
+1. Kuidas rakendad selles projektis õpitut järgmistes arendusprojektides
 
-* Üks pehme oskus, mida õppisin ja endas arendasin
+2. Üks pehme oskus, mida õppisin ja endas arendasin
 
-* Üks tehniline oskus, mida õppisin ja endas arendasin
+3. Üks tehniline oskus, mida õppisin ja endas arendasin
 
-Kristo Tänak
+### Kristo Tänak
 
-Heino Soon
+### Heino Soon
 
-Krista Kallas
+### Krista Kallas
 
-Oskar Kallas
+### Oskar Kallas
 
-Marten Saar
+### Marten Saar
 
-Tony Vorontsov
+### Tony Vorontsov
 
-Aren Ansper
+### Aren Ansper
+1. Kasutan ka edaspidi GitHubi branchinist ja GitHub Desktopi, mida selles projektis õppisin.
+2. Arendasin suhtlemisoskust.
+3. 
