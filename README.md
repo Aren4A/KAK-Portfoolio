@@ -53,6 +53,9 @@
 ### Marten Saar
 
 ### Tony Vorontsov
+1. Kasutan tiimitöödes GitHub branche ja suhtlen tiimiga rohkem.
+2. Tiimiga suheldes arendasin julgust ja edaspidi julgen rohkem tiimilt abi küsida kui vaja.
+3. Vaatasin JavaScripti ja mis on API.
 
 ### Aren Ansper
 1. Kasutan ka edaspidi GitHubi branchinist ja GitHub Desktopi, mida selles projektis õppisin.
