@@ -45,6 +45,7 @@
 ### Heino Soon
 1. Parandasin html ja css oskusi
 2. Parandasin suhtlemisoskust
+3. Parandasin flexpox-i oskusi
 
 ### Krista Kallas
 1. Avaldan enda arvamust, suhtlen tiimiga paremini.
