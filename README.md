@@ -9,7 +9,7 @@
 * Aren Ansper
 
 ### Töökäik:
-1.Päev: Tutvumine tiimiga, idee mõtestamine, ülesannete jagamine, koodi kirjutamine. 2.Päev: Koodi kirjutamine, erinevate koodilõikude kokku panemine,
+1.Päev: Tutvumine tiimiga, idee mõtestamine, ülesannete jagamine, koodi kirjutamine, Figams disaini moodustamine. 2.Päev: Figma jätkamine, Koodi kirjutamine, erinevate koodilõikude kokku panemine, Koodis vigade parandamine. 3.Päev: Lehekülje üles laadimine, koodi parandamine, readme tegemine.
 
 ### Ülesanded:
 * Figma - Krista, Marten, Kristo
