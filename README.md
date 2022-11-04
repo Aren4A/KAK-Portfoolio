@@ -45,6 +45,9 @@
 ### Heino Soon
 
 ### Krista Kallas
+1. Avaldan enda arvamust, suhtlen tiimiga paremini.
+2. Tiimiga suhtlemine.
+3. Arendasin Figmas disaini oskusi.
 
 ### Oskar Kallas
 1.Õppisin kuidas kasutada break elementi.  
