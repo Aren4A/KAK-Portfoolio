@@ -38,6 +38,9 @@
 3. Üks tehniline oskus, mida õppisin ja endas arendasin
 
 ### Kristo Tänak
+1. Kasutan tulevikus kindlasti GitHub Desktop'i kuna sealt on lihtne pushida ja pullida.
+2. Arendasin enda juhtimisoskust.
+3. Õppisin flexboxi juurde.
 
 ### Heino Soon
 
