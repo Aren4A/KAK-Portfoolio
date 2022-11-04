@@ -43,6 +43,8 @@
 3. Õppisin flexboxi juurde.
 
 ### Heino Soon
+1. Parandasin html ja css oskusi
+2. Parandasin suhtlemisoskust
 
 ### Krista Kallas
 1. Avaldan enda arvamust, suhtlen tiimiga paremini.
